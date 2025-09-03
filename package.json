@@ -1,0 +1,22 @@
+{
+  "name": "backendppi",
+  "version": "1.0.0",
+  "description": "Projeto Backend PPI 2025",
+  "keywords": [
+    "Backend",
+    "Node",
+    "Javascript",
+    "Mysql"
+  ],
+  "license": "ISC",
+  "author": "Maria Eduarda Souza Fernandes",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "mysql2": "^3.14.4"
+  }
+}
